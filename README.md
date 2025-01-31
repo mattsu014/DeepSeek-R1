@@ -126,7 +126,7 @@ By following the steps outlined in this article, you can easily install Ollama, 
 ---
 Thanks for reading 🙃
 
-
+I posted this article on Dev.to, so I thought it would be interesting to repost it here as well. 😊
 
 - Follow my dev.to account: [@mattsu014](https://dev.to/mattsu014)
 
